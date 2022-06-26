@@ -20,10 +20,15 @@ Users should be able to:
 
 
 ### Screenshot
+#### Mobile Screen
+<img src="mobile.png">
+
+#### Desktop Screen
+<img src="desktop.png">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: index.html
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
